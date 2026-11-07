@@ -2,3 +2,4 @@ segment,population_mln,share_pct,year,source
 Население РФ (всего),146,100,2024,Росстат (https://rosstat.gov.ru/folder/12781)
 Люди с избыточным весом,94.9,65,2024,WOF (https://data.worldobesity.org/publications/?cat=19)
 Посетители фитнес-клубов,7.6,5.2,2025,Национальное фитнес-сообщество (https://nationalfitness.ru/2025/12/30/itogi-2025-goda-obobshhennoe-issledovanie-rynka-fitnes-uslug/)
+Пользователи Google Health,15.0,10.3,2025,Оценка на основе доли Android-устройств в РФ (StatCounter)
